@@ -2,8 +2,6 @@
 
 echo Type project number
 read projnum
-mkdir $projnum
-cd $projnum
-touch index.html style.css index.js
+cp -r base $projnum
 cd ..
 exit
