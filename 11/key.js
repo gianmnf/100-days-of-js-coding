@@ -1,1 +1,2 @@
-key = 'fb9ab006';
+// https://www.omdbapi.com/apikey.aspx
+key = '';
